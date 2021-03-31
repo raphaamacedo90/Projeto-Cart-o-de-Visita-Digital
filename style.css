@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body {
+    background-color: black;
+}
+
+.container {
+    background: url('image/backgorund.png') no-repeat;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+  }
+  #image {
+    position: absolute;
+  }
+  #redes {
+    font-family: 'Amatic SC', cursive;
+    position: absolute;
+    font-size: 30px;
+    list-style: none;
+    margin-left: 60px;
+    top: 90px;
+    left: 450px;
+       
+    
+  }
+  #nome {
+    font-family: 'Amatic SC', cursive;
+    position: absolute;
+    font-size: 50px;
+    margin-left: 50px;
+    
+    
+      }
+
+   #icone {
+               
+    position: relative;
+    height: 60px;
+    left: -10px; 
+              
+    }
+    a {
+        text-decoration: none;
+        color: black;
+    }
